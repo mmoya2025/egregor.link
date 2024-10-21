@@ -1,0 +1,33 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash log files
+crash.log
+
+# Exclude any .terraform directories
+.terraform/
+
+# Terraform plan files
+*.tfplan
+
+# Terraform variables files
+#*.tfvars
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore specific configuration files (if used)
+#terraform.tfvars
+#terraform.tfvars.json
+
+# Lock file
+.terraform.lock.hcl
+
+# Ignore sensitive files
+# If you have any other sensitive files that should not be committed
+# add them here
+.DS_Store
