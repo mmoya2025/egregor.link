@@ -31,3 +31,9 @@ override.tf.json
 # If you have any other sensitive files that should not be committed
 # add them here
 .DS_Store
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
