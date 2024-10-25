@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-egregorlink-dev-11328-authRole",
-      "UnauthRoleArn": "arn:aws:iam::975050166275:role/amplify-egregorlink-dev-11328-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::975050166275:role/amplify-egregorlink-dev-11328-authRole",
+      "AuthRoleName": "amplify-egregorlink-dev-1e006-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050166275:role/amplify-egregorlink-dev-1e006-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050166275:role/amplify-egregorlink-dev-1e006-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-egregorlink-dev-11328-deployment",
-      "UnauthRoleName": "amplify-egregorlink-dev-11328-unauthRole",
-      "StackName": "amplify-egregorlink-dev-11328",
-      "StackId": "arn:aws:cloudformation:us-east-1:975050166275:stack/amplify-egregorlink-dev-11328/6b8ebed0-922f-11ef-980e-0affc845b361",
-      "AmplifyAppId": "d33uqphb3ya1ou"
+      "DeploymentBucketName": "amplify-egregorlink-dev-1e006-deployment",
+      "UnauthRoleName": "amplify-egregorlink-dev-1e006-unauthRole",
+      "StackName": "amplify-egregorlink-dev-1e006",
+      "StackId": "arn:aws:cloudformation:us-east-1:975050166275:stack/amplify-egregorlink-dev-1e006/f2525550-9291-11ef-8b5f-0e961c5489b3",
+      "AmplifyAppId": "d3gnwpwemavnjw"
     },
     "categories": {
       "auth": {
-        "egregorlinkc2cf544f": {}
+        "egregorlink3a2b13d8": {}
       }
     }
   }
